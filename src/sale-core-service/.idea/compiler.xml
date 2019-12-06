@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sale-core-service" />
+        <module name="sale-core-service-interface" />
+        <module name="sale-core-service-server" />
+        <module name="sale-core-service-web" />
+        <module name="sale-core-servicec-ommon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sale-core-service-util" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
