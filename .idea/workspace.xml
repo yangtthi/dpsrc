@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b44b430b-3e4e-4b37-8edd-96a733ef2337" name="Default" comment="" />
+    <list default="true" id="b44b430b-3e4e-4b37-8edd-96a733ef2337" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/.idea/junitgenerator-prj-settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/db-script/2019-12-05_初始化sql/init.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/db-script/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/design-wiki/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/requirement/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/sale-core-service-interface/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/sale-core-service-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/sale-core-service-web/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/sale-core-service-web/src/main/java/com/demo/sale/service/exmaple/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/sale-core-service-web/target/classes/com/demo/sale/service/exmaple/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/sale-core-servicec-ommon/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sale-core-service/target/sale-core-service-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +37,15 @@
     <SUITE FILE_PATH="coverage/dpsrc$Main.ic" NAME="Main Coverage Results" MODIFIED="1575370125567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-798" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -304,6 +335,14 @@
       <option name="presentableId" value="Default" />
       <updated>1575255552874</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1575624311906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575624311906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -329,8 +368,8 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.1923077" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32952926" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.7446505" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952926" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27010724" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -346,6 +385,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -713,6 +756,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -739,7 +785,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798" />
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
